@@ -1,0 +1,5 @@
+f=open("aadi.txt", 'w')
+f.write("Hello \n")
+f.write("My name is : Aadi Jotwani")
+f.close()
+print("Data written Successfullly")
